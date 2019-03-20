@@ -9,5 +9,11 @@
 ## Author
 > CausticKirby-Z
 
-## DNS Host List
-> https://www.domcop.com/top-10-million-domains
+## Recomended DNS Host List
+
+> https://www.domcop.com/top-10-million-domains 
+>
+> How to get it:
+>
+> - wget https://www.domcop.com/files/top/top10milliondomains.csv.zip --no-check-certificate
+> - ./setup.sh
